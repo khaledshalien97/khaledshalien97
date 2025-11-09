@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Passionate Flutter Developer with a strong background in UI/UX design and a proven record of delivering scalable, high-performance mobile applications. Skilled in Clean Architecture, Riverpod, and BLoC for state management, I focus on writing maintainable, testable, and efficient code.<br><br>Over the past few years, I have contributed to multiple projects in operations management, energy monitoring, and maintenance systems — blending functionality with modern design.<br><br>I thrive in collaborative environments where innovation meets clean code and where every line contributes to an intuitive user experience. Always eager to learn, optimize, and push the limits of what Flutter can do.</p>
+<p align="left">I’m a Flutter Developer and UI/UX Designer who ships fast, clean, and scalable mobile apps. I use Riverpod/BLoC with Clean Architecture, Dio, and Firebase to build maintainable codebases and pixel-accurate interfaces. I’ve refactored legacy code, boosted performance, and led UI redesigns across products like supply-chain platforms, O&M suites, and energy management apps. I collaborate via Git/Jira and keep learning to stay ahead of the curve.</p>
 
 ###
 
